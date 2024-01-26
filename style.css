@@ -21,3 +21,37 @@
     gap: 10px;
     color:#e5e7eb
 }
+
+
+.image-div{
+    background: gray;
+    height: 100px;
+    width: 100px;
+}
+
+.image-tag{
+    color: white;
+}
+
+.top-content{
+    display: flex;
+    align-content: center;
+    background: #1F2937;
+    padding: 200px 50px 1px 1px;
+    height: 100vh;
+    justify-content: space-between;
+
+}
+
+.left-content{
+    display: flex;
+    flex-direction: column;
+padding: 0 70px;
+}
+
+.h1-left{
+    color: #fff;
+    font-size: 48px;
+    font-weight: 900;
+}
+
