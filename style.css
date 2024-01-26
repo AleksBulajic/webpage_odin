@@ -83,7 +83,7 @@ body {
   background: white;
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  height: 50vh;
 }
 
 .mid-title {
@@ -126,3 +126,17 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.quote-section{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: lightgray;
+  height: 200px;
+}
+
+.quote-content{
+  font-size:36px;
+}
+
